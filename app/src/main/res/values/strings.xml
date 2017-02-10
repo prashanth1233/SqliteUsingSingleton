@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sqlite_Singleton</string>
+    <string name="firstName">ENTER FIRST NAME</string>
+    <string name="lastName">ENTER LAST NAME</string>
+    <string name="register">REGISTER</string>
+    <string name="clickHere">FIND NICKNAME</string>
+    <string name="age">ENTER YOUR NICKNAME</string>
+    <string name="action_settings">Settings</string>
+</resources>
